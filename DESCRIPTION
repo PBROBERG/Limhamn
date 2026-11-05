@@ -1,0 +1,11 @@
+Package: Limhamn
+Title: Portfolio utilities
+Version: 0.0.0.9049
+Authors@R: 
+    person("Per", "Broberg", , "first.last@example.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Imports: CVXR, boot, matrixStats, quantmod, zoo, gtools, xts, nloptr, PerformanceAnalytics
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.0
